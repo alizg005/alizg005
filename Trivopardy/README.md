@@ -3,7 +3,7 @@ Trivopardy Game
 
 Overview
 
-This trivia/jeopardy game is a collaborative project I built with a Tech Elevator student. The game features questions from various categories, including "LOTR," "STAR WARS," "STAR TREK," "DUNE," and "HARRY POTTER." Players can choose questions of different levels within each category to test their knowledge.
+This trivia/jeopardy game is a collaborative project I built with a Tech Elevator student - Jacob Leya. The game features questions from various categories, including "LOTR," "STAR WARS," "STAR TREK," "DUNE," and "HARRY POTTER." Players can choose questions of different levels within each category to test their knowledge.
 
 Features
 
