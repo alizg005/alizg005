@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Backpack_calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cffc246d551cfbd2c5e31c8824b382bff1fa7207")]
 [assembly: System.Reflection.AssemblyProductAttribute("Backpack_calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Backpack_calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
