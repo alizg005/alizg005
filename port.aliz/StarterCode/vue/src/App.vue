@@ -29,19 +29,20 @@ body {
   font-size: 2em;
 }
 
+#home {
+  background: url('/src/img/background2.jpg') center/cover no-repeat fixed;
+}
+
 #about {
-  background: url('/src/img/background.jpg') center/cover no-repeat fixed;
+  background: url('/src/img/background3.png') center/cover no-repeat fixed;
 }
 
 #projects {
-  background: url('/src/img/background.jpg') center/cover no-repeat fixed;
+  background: url('/src/img/background4.png') center/cover no-repeat fixed;
 }
 
 #skills {
-  background: url('/src/img/background1.png') center/cover no-repeat fixed;
+  background: url('/src/img/background4.png') center/cover no-repeat fixed;
 }
 
-#home {
-  background: url('/src/img/background.png') center/cover no-repeat fixed;
-}
 </style>
