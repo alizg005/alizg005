@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alizg\\Documents\\alizg005\\mastermind\\Mastermind\\Mastermind\\Mastermind.csproj": {}
+    "C:\\Users\\alizg\\Documents\\Programming\\Projects\\Lizi\\alizg005\\mastermind\\Mastermind\\Mastermind\\Mastermind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alizg\\Documents\\alizg005\\mastermind\\Mastermind\\Mastermind\\Mastermind.csproj": {
+    "C:\\Users\\alizg\\Documents\\Programming\\Projects\\Lizi\\alizg005\\mastermind\\Mastermind\\Mastermind\\Mastermind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alizg\\Documents\\alizg005\\mastermind\\Mastermind\\Mastermind\\Mastermind.csproj",
+        "projectUniqueName": "C:\\Users\\alizg\\Documents\\Programming\\Projects\\Lizi\\alizg005\\mastermind\\Mastermind\\Mastermind\\Mastermind.csproj",
         "projectName": "Mastermind",
-        "projectPath": "C:\\Users\\alizg\\Documents\\alizg005\\mastermind\\Mastermind\\Mastermind\\Mastermind.csproj",
+        "projectPath": "C:\\Users\\alizg\\Documents\\Programming\\Projects\\Lizi\\alizg005\\mastermind\\Mastermind\\Mastermind\\Mastermind.csproj",
         "packagesPath": "C:\\Users\\alizg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alizg\\Documents\\alizg005\\mastermind\\Mastermind\\Mastermind\\obj\\",
+        "outputPath": "C:\\Users\\alizg\\Documents\\Programming\\Projects\\Lizi\\alizg005\\mastermind\\Mastermind\\Mastermind\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alizg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
