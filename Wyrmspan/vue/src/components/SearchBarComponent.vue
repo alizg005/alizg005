@@ -51,8 +51,6 @@
 import SearchService from '../services/SearchService';
 import DragonService from '../services/DragonService.js';
 import BoxBackgroundComponent from './BoxBackgroundComponent.vue';
-// import textComponent from './textComponent.vue';
-
 
 
 export default {
