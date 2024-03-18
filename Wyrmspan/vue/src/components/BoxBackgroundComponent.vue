@@ -42,8 +42,8 @@
 </template>
 
 <script>
-import textComponent from '@/components/textComponent.vue';
-import DragonStatsComponent from '@/components/DragonStatsComponent.vue';
+import textComponent from '../components/textComponent.vue';
+import DragonStatsComponent from '../components/DragonStatsComponent.vue';
 import DragonService from '../services/DragonService';
 
 
